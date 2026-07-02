@@ -1,3 +1,6 @@
-<img src="https://i.pinimg.com/originals/35/12/87/351287e0d29077b1c9089f8d12b81080.gif" height="300px">
- 
- 
+<picture>
+  <!-- Plays on PC screens -->
+  <source media="(min-width: 768px)" srcset="800.gif">
+  <!-- Plays on Mobile screens -->
+  <img src="400.gif" alt="Animated Pixel Art" width="100%">
+</picture>
